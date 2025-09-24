@@ -1,8 +1,8 @@
 ## Oiê! Eu sou a Mary! 👋
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-📌 **FATEC Zona Leste | 4º semestre**  
-💻 **Em busca do meu primeiro estágio na área de tecnologia**  
+📌 **FATEC Zona Leste | 5º semestre**  
+💻 **Trabalho na E-CONSTRUMARKET**  
 
 ---
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryanaquerido&layout=compact&theme=radical&hide=contribs,prs&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
